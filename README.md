@@ -9,7 +9,8 @@ An E-commerce website specializing in electronic components and computers. Integ
 **Customer
 - Register, login, logout.
 - Products, Product Details, Add To Cart
-- Payment. 
+- Payment.
+  
 **Admin
 - Add account for customer or admin
 - Manage all products such as (cpu, ram, graphics, screen,...)
